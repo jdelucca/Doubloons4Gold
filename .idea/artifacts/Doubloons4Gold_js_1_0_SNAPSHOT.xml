@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Doubloons4Gold-js-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="Doubloons4Gold-js-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="Doubloons4Gold.jsMain" />
+    </root>
+  </artifact>
+</component>
